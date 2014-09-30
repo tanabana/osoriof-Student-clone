@@ -11,3 +11,5 @@ Web development is a big part of what librariers are doing to reach more users a
 *Assembly
 *Python
 *PHP
+
+C++, C and Assembly were covered in earlier classes. I've spent time on my own with python and took a database class in graduate school that covered php.
