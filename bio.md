@@ -6,3 +6,8 @@ I'm a librarian interested in how libraries can use computer science to hlp with
 Web development is a big part of what librariers are doing to reach more users and make their collections more accessible. I'm looking forward to learning more in the class.
 
 #Programming Background
+*C++
+*C
+*Assembly
+*Python
+*PHP
