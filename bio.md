@@ -11,3 +11,6 @@ Web development is a big part of what librariers are doing to reach more users a
 *Assembly
 *Python
 *PHP
+
+#Branching from a previous commit
+Not sure if that worked. I see three branches with "git branch" and this new branch seems to have undone the last few changes I made, so I think it worked as intended.
