@@ -18,3 +18,10 @@ C++, C and Assembly were covered in earlier classes. I've spent time on my own w
 Where do you currently live? What classes have you taken so far, and what are you taking this semester?
 Thanks for being my partner!
 
+
+#Some answers
+It took awhile to figure out how to get here, and I'm still not sure if this was the best way.
+
+I live in DC. I came here after finishing Grad school in Boston and am working as a librarian.
+
+This is my Fourth Quarter. I've taken cs 161, 162, 225, 261 and 271
